@@ -63,8 +63,8 @@ To use the Twitter bot you need to have the following installed on your server:
 
 ##TODO:
 
-- [ ]Set security/access
-- [ ]search set up
-- [ ]self registration (?)
-- [ ]ability for teacherbot to be used by multiple teams
-- [ ]setting up of teacherbot on IS server
+- [ ] Set security/access
+- [ ] search set up
+- [ ] self registration (?)
+- [ ] ability for teacherbot to be used by multiple teams
+- [ ] setting up of teacherbot on IS server
