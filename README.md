@@ -33,7 +33,7 @@ Each rule has 7 attributes:
 
 ####Conditions and defining rules:
 Rules can be edited and defined using the [Bot GUI](##Links to submodules "MOOC Twitter GUI")
-![GUI Screengrab](img/gui-screenshot.png)
+![GUI Screengrab](/img/gui-screenshot.png)
 
 ##Installation:
 
