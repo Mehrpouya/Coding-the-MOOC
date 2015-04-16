@@ -1,0 +1,9 @@
+[submodule "MOOC-Twitterbot"]
+	path = MOOC-Twitterbot
+	url = https://github.com/Mehrpouya/MOOC-Twitterbot.git
+[submodule "MOOC-Twitterbot-Sniffer"]
+	path = MOOC-Twitterbot-Sniffer
+	url = https://github.com/Mehrpouya/MOOC-Twitterbot-Sniffer.git
+[submodule "MOOC-Twitterbot-GUI"]
+	path = MOOC-Twitterbot-GUI
+	url = https://github.com/Mehrpouya/MOOC-Twitterbot-GUI.git
